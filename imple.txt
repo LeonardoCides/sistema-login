@@ -1,0 +1,16 @@
+Funcionalidades do Sistema:
+
+--> Registrar usuário:
+    - se o usuário nao tiver o login, deve se registrar primeiro
+
+--> todos as informaçoes devem ser salvas em uma estrutura de dados do python:
+    - dict, set, list.
+
+--> Condições:
+    - deve se ter as condições para saber se o usuario tem login, e se tiver o programa executa normalmente
+    - se nao, deve ter as exeçoes
+
+--> informaçoes do usuario:
+    - o usuario deve informar: nome, idade, sexo, email, e fazer sua senha
+
+@LeonardoCides
